@@ -1,0 +1,29 @@
+{
+  "name": "acf/acf-block",
+  "title": "The acf-block",
+  "description": "",
+  "style-notused": "file:./style.css",
+  "category": "custom",
+  "icon": "businessperson",
+  "apiVersion": 2,
+  "keywords": [],
+  "acf": {
+    "mode": "edit",
+    "renderTemplate": "render.php"
+  },
+  "styles": [],
+  "supports": {
+    "align": false,
+    "anchor": true,
+    "alignContent": false,
+    "color": {
+      "text": false,
+      "background": false,
+      "link": true
+    },
+    "alignText": false,
+    "fullHeight": false
+  },
+  "attributes": {}
+}
+ 

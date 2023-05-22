@@ -1,0 +1,52 @@
+{
+    "key": "acf6_plugin_group_6465202721766",
+    "title": "aaa - test group",
+    "fields": [
+        {
+            "key": "field_64652027d09d2",
+            "label": "Plugin Identifier",
+            "name": "plugin_identifier",
+            "type": "hidden",
+            "default_value": "acf6_plugin"
+        },
+        {
+            "key": "field_64652027d09d1",
+            "label": "tttttt",
+            "name": "tttttt",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "post"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1684348983
+}
