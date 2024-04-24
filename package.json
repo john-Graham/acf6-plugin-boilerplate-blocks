@@ -1,0 +1,32 @@
+{
+    "name": "Board Members",
+    "version": "0.1",
+    "description": "Board member management system",
+    "main": ".npm-init.js",
+    "author": {
+        "name": "John Graham",
+        "email": "jdgraham2@wisc.edu"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@babel/core": "^7.22.11",
+        "@babel/preset-env": "^7.22.14",
+        "autoprefixer": "^10.4.15",
+        "cssnano": "^6.0.1",
+        "del": "^6.1.1",
+        "gulp": "^4.0.2",
+        "gulp-babel": "^8.0.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-image": "6.2.1",
+        "gulp-javascript-obfuscator": "^1.1.6",
+        "gulp-postcss": "^9.0.1",
+        "gulp-rename": "^2.0.0",
+        "gulp-sass": "^5.1.0",
+        "gulp-replace": "^1.1.4",
+        "gulp-sourcemaps": "^3.0.0",
+        "gulp-uglify": "^3.0.2",
+        "postcss": "^8.4.29",
+        "sass": "^1.74.1"
+    }
+
+}
